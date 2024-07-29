@@ -4,4 +4,4 @@
   Como criar um database local com o DuckDB via python
 
 - [Exemplo 2: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_duckdb_postgresql.ipynb)
-  Como fazer uma conexão com o PostgreSQL atravpes da api python do DuckDB 
+  Como fazer uma conexão com o PostgreSQL através da api python do DuckDB 
