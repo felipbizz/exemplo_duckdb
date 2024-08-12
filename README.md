@@ -6,5 +6,5 @@
 - [Exemplo 2: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_duckdb_postgresql.ipynb)
   Como fazer uma conexão com o PostgreSQL através da api python do DuckDB 
 
-- [Exemplo 3: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_vector_search.ipynb.ipynb)
+- [Exemplo 3: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_vector_search.ipynb)
   Como realizar uma Vector Search através da api python do DuckDB 
