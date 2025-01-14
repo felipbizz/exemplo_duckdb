@@ -8,3 +8,6 @@
 
 - [Exemplo 3: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_vector_search.ipynb)
   Como realizar uma Vector Search através da api python do DuckDB 
+
+- [Exemplo 4: ](https://github.com/felipbizz/exemplo_duckdb/blob/main/exemplo_join_and_batch.ipynb)
+  Como um join entre dois deltalakes que não cabem na memória do PC, e depois exportar esse novo df para um deltalake.
